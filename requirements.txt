@@ -1,0 +1,35 @@
+# FastAPI & Web Server
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+
+# Discord Bot Support
+discord.py>=2.3.2
+
+# Authentication & Environment Management
+python-dotenv>=1.0.0
+passlib[bcrypt]>=1.7.4
+
+# Async Operations & HTTP
+httpx>=0.24.0
+
+# Validation & Settings
+pydantic>=2.4.0
+
+# Database & ORM
+sqlalchemy>=2.0.0
+asyncpg>=0.28.0
+databases>=0.8.0
+
+# Rate Limiting
+slowapi>=0.1.9
+
+# Testing & Coverage
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+coverage>=7.3.0
+
+# Logging
+loguru>=0.7.0
+
+# MCP Framework
+fastmcp>=0.3.0 
